@@ -1,2 +1,2 @@
-# Intermediate-Python
-Codeacademy Intermediate Python 3
+# Codecademy_Python
+Projects from Codecamedy.
